@@ -1,0 +1,21 @@
+{
+  "name": "btobtottyr",
+  "version": "1.0.0",
+  "description": "hshshshshsjsj",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "start"
+  },
+  "engines": {
+    "node":"16"
+  },
+  "keywords": [
+    "fu"
+  ],
+  "author": "fuadjtm",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
